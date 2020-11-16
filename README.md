@@ -1,4 +1,4 @@
-# canales#EXTM3U
+
  
 #EXTINF:-1,*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
  
